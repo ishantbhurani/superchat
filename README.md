@@ -28,13 +28,13 @@ Users should be able to:
 
 ### Screenshot
 
-| ![Login Page](./screenshots/screenshot-login.png) |
+| ![Login Page](https://ishantbhurani.github.io/superchat/screenshots/screenshot-login.png) |
 | ------------------------------------------------- |
 
-| ![Chat Page](./screenshots/screenshot-chat.png) |
+| ![Chat Page](https://ishantbhurani.github.io/superchat/screenshots/screenshot-chat.png) |
 | ----------------------------------------------- |
 
-| ![Loading Animation](./screenshots/loading.gif) |
+| ![Loading Animation](https://ishantbhurani.github.io/superchat/screenshots/loading.gif) |
 | ----------------------------------------------- |
 
 ### Links
